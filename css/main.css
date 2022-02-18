@@ -1,0 +1,51 @@
+*
+{
+	box-sizing: border-box;
+}
+
+h1
+{
+	color: red;
+}
+
+.par-bl
+{
+	color: white;
+	background: blue;
+	width: 100px;
+	margin-bottom: 100px;
+}
+
+span
+{
+	color: red;
+}
+
+h2
+{
+	color: white;
+	background: green;
+}
+
+.heig
+{
+	height: 100px;
+	padding-left: 45px;
+	padding-top: 35px;
+}
+
+.par-mar
+{
+	margin-left: 100px;
+}
+
+li
+{
+	font-size: 30px;
+	border: 2px solid black;
+}
+
+a:hover
+{
+	font-size: 20px;
+}
